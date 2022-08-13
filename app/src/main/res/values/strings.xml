@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Clase_2</string>
+    <string name="textoPrincipal">CALCULAR AREAS</string>
+    <string name="textoLado1">Lado 1:</string>
+    <string name="textoLado2">Lado 2:</string>
+    <string name="textoLado3">Lado 3:</string>
+    <string name="text1">Ingrese Valor Lado 1</string>
+    <string name="text2">Ingrese Valor Lado 2</string>
+    <string name="text3">Ingrese Valor Lado 3</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="resultado">Resultado:</string>
+    <string name="calcular">Calcular</string>
+</resources>
